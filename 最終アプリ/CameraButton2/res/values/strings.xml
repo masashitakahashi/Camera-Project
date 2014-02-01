@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraButton2</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="imagecircle">non</string>
+
+</resources>
